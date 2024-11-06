@@ -11,6 +11,8 @@ Você terá 3 variáveis. Sendo elas:</br>
 
 Imprimir no console o valor que será de combustivel para realizar esta viagem.
 
+                                                                   ----------------Fim exercicio 1-----------------------
+
 Desafio 2:
 
 Você terá 5 variaveis. Sendo elas:</br>
@@ -20,4 +22,4 @@ Você terá 5 variaveis. Sendo elas:</br>
     4 - Gasto médio de combustivel do carro por KM;</br>
     5 - Distancia em KM da viagem;</br>
 
-    Imprima no console o valor que será gasto para realizar esta viagemn
+    Imprima no console o valor que será gasto para realizar esta viagem.
