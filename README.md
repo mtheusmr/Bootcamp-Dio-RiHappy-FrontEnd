@@ -11,7 +11,7 @@ Você terá 3 variáveis. Sendo elas:</br>
 
 Imprimir no console o valor que será de combustivel para realizar esta viagem.
 
-                                                                   ----------------Fim exercicio 1-----------------------
+  ----------------Fim exercicio 1-----------------------
 
 Desafio 2:
 
