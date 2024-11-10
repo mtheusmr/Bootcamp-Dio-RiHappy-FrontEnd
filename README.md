@@ -22,8 +22,6 @@ Você terá 5 variaveis. Sendo elas:</br>
     4 - Gasto médio de combustivel do carro por KM;</br>
     5 - Distancia em KM da viagem;</br>
 
-    Imprima no console o valor que será gasto para realizar esta viagem.
-    
   ---------------------------------------
 
 Desafio 3:
