@@ -23,3 +23,16 @@ Você terá 5 variaveis. Sendo elas:</br>
     5 - Distancia em KM da viagem;</br>
 
     Imprima no console o valor que será gasto para realizar esta viagem.
+    
+                                                                       ----------------Fim exercicio 2-----------------------
+
+Desafio 3:
+
+Faça um algoritimo que dado as 3 notas tiradas por um alino em um semestre da faculdade calcule e imprima a suamédia e a sua classificação conforme a tabela abaixo.</br>
+
+Média = (nota1 + ntoa 2 + nota 3) /3;</br>
+
+Classificação:</br>
+- Média menor que 5, reprovação;</br>
+- Média entre 5 e 7, recuperação;</br>
+- Média acima de 7, passou de semestre;</br>
