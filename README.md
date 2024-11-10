@@ -11,7 +11,7 @@ Você terá 3 variáveis. Sendo elas:</br>
 
 Imprimir no console o valor que será de combustivel para realizar esta viagem.
 
-                                                                   ----------------Fim exercicio 1-----------------------
+  ---------------------------------------
 
 Desafio 2:
 
@@ -23,6 +23,7 @@ Você terá 5 variaveis. Sendo elas:</br>
     5 - Distancia em KM da viagem;</br>
 
     Imprima no console o valor que será gasto para realizar esta viagem.
+<<<<<<< HEAD
     
                                                                        ----------------Fim exercicio 2-----------------------
 
@@ -36,3 +37,5 @@ Classificação:</br>
 - Média menor que 5, reprovação;</br>
 - Média entre 5 e 7, recuperação;</br>
 - Média acima de 7, passou de semestre;</br>
+
+                                                                       ----------------Fim exercicio 3-----------------------
