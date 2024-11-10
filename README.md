@@ -26,7 +26,7 @@ Você terá 5 variaveis. Sendo elas:</br>
 
 Desafio 3:
 
-Faça um algoritimo que dado as 3 notas tiradas por um alino em um semestre da faculdade calcule e imprima a suamédia e a sua classificação conforme a tabela abaixo.</br>
+Faça um algoritimo que dado as 3 notas tiradas por um aluno em um semestre da faculdade calcule e imprima a suamédia e a sua classificação conforme a tabela abaixo.</br>
 
 Média = (nota1 + ntoa 2 + nota 3) /3;</br>
 
