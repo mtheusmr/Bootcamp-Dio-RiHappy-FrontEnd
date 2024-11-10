@@ -10,6 +10,6 @@ if (media < 5) {
 else if (media <= 7) {
     console.log ("Sua nota foi " + media.toFixed(0) +(", então você está de recuperação!"))
 }
-else if (media > 5) {
+else if (media > 7) {
     console.log ("Sua nota foi " + media.toFixed(0) +(", então você está APROVADO!!!"))
 }
