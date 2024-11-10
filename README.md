@@ -30,11 +30,11 @@ Desafio 3:
 
   Faça um algoritimo que dado as 3 notas tiradas por um aluno em um semestre da faculdade calcule e imprima a suamédia e a sua classificação conforme a tabela abaixo.</br>
 
-    Média = (nota1 + ntoa 2 + nota 3) /3;</br>
+    Média = (nota1 + ntoa 2 + nota 3) /3;
 
-    Classificação:</br>
-    - Média menor que 5, reprovação;</br>
-    - Média entre 5 e 7, recuperação;</br>
-    - Média acima de 7, passou de semestre;</br>
+    Classificação:
+    - Média menor que 5, reprovação;
+    - Média entre 5 e 7, recuperação;
+    - Média acima de 7, passou de semestre;
 
 ---------------------------------------
