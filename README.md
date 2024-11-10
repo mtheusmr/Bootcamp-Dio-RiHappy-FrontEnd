@@ -23,9 +23,8 @@ Você terá 5 variaveis. Sendo elas:</br>
     5 - Distancia em KM da viagem;</br>
 
     Imprima no console o valor que será gasto para realizar esta viagem.
-<<<<<<< HEAD
-    
-                                                                       ----------------Fim exercicio 2-----------------------
+
+  ---------------------------------------
 
 Desafio 3:
 
@@ -38,4 +37,4 @@ Classificação:</br>
 - Média entre 5 e 7, recuperação;</br>
 - Média acima de 7, passou de semestre;</br>
 
-                                                                       ----------------Fim exercicio 3-----------------------
+  ---------------------------------------
